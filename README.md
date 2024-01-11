@@ -46,11 +46,11 @@ Alternatively, use the <h1> keyboard keys </h1> corresponding to each drum eleme
 
 If you'd like to contribute to the project, follow these steps:
 
--  Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Create a pull request.
+- Fork the repository.
+- Create a new branch: git checkout -b feature/new-feature.
+- Make your changes and commit them: git commit -m 'Add new feature'.
+- Push to the branch: git push origin feature/new-feature.
+- Create a pull request.
  
 ## License
 This project is licensed under the <h1> MIT License.</h1>
