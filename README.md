@@ -55,7 +55,7 @@ If you'd like to contribute to the project, follow these steps:
 ## License
 This project is licensed under the <h1> MIT License.</h1>
 
-Replace placeholders such as `your-username` and `drum-kit-project` with the appropriate values for your GitHub username and repository name.
+-Replace placeholders such as `your-username` and `drum-kit-project` with the appropriate values for your GitHub username and repository name.
 
-Feel free to expand or modify sections based on the specific details and features of your drum kit project. The goal is to provide clear instructions and information for users and potential contributors.
+-Feel free to expand or modify sections based on the specific details and features of your drum kit project. The goal is to provide clear instructions and information for users and potential contributors.
 
