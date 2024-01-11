@@ -62,6 +62,7 @@ function makeSound(key) {
 }
 function buttonAnimation(currentKey) {
 
+  // new commit
   var activeButton = document.querySelector("." + currentKey);
 
   activeButton.classList.add("pressed");
