@@ -34,7 +34,7 @@ To run the Drum Kit project locally, follow these steps:
 
 Click on the drum elements with your mouse to trigger sounds.
 Alternatively, use the <h1> keyboard keys </h1> corresponding to each drum element for a hands-free experience.
-- "w" for crash
+- "w" for crash.
 - "a" for kick bass
 - "s" for snare
 - "d" for tom 1
